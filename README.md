@@ -122,7 +122,7 @@ Below are my collection of best books and references for Backend Engineering stu
 
 - Cheat Sheet: [Linux Command](https://mr-khan.gitlab.io/assets/linux/linux-basic-command.jpg) + [Bash Scripting](https://www.pcwdld.com/bash-cheat-sheet#wbounce-modal)
 
-- [CompTIA Linux+ Study Guide](https://www.pdfdrive.com/comptia-linux-powered-by-linux-professional-institute-study-guide-exam-lx0-103-and-exam-lx0-104-comptia-linux-study-guide-d199709378.html)
+- [CompTIA Linux+ Study Guide](https://drive.google.com/file/d/1Qy7oYGn_slJz0QCY29vgUvQ2h5SW3GBp/view?usp=drive_link)
 
 ### b.  Python
 
